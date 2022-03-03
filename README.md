@@ -19,7 +19,7 @@ Web Development AWARI FullStack Course
 - Use JavaScript 
 - Customizate Design
 
-This project is a responsive applications Calculator using HTML CSS(SASS) and JavaScript.  
+This CalculatorX project is a responsive applications using JavaScript HTML CSS(SASS) and.   
 With this project I have learned how to use a javaScript code to count seconds, minutes and hours. as long the page stays open, in order to save background processing.
   
 ### Technologies:
