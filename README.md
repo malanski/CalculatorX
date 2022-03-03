@@ -15,7 +15,7 @@ Web Development AWARI FullStack Course
 </div>
 
 ## Objectives:  
-- Create a Online Calculator SASS + HTML
+- Create a Online Calculator
 - Use JavaScript 
 - Customizate Design
 
