@@ -4,7 +4,7 @@
   
 </div>
 
-JavaScript Simplest Calculator with Alert  
+JavaScript Calculator with Alert  
 
 Web Development AWARI FullStack Course
  
@@ -18,9 +18,9 @@ Web Development AWARI FullStack Course
 - Create a Online Calculator SASS + HTML
 - Use JavaScript 
 - Customizate Design
-  
-This project is a responsive applications Calculator using HTML CSS(SASS) and JavaScript.    
- 
+
+This project is a responsive applications Calculator using HTML CSS(SASS) and JavaScript.  
+With this project I have learned how to use a javaScript code to count seconds, minutes and hours. as long the page stays open, in order to save background processing.
   
 ### Technologies:
 - HTML5
